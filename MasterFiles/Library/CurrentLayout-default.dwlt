@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1904
     height: 981
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 55
+  controlID: 117
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 98
+  controlID: 118
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 99
+  controlID: 119
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\alec.2578840\MasterFiles
+  m_LastProjectPath: C:\Users\alec.2578840\Desktop\Masterfiles\MasterFiles
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -592,9 +592,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.24826422, y: 0.62623394, z: -0.22039373, w: 0.70542514}
+    m_Target: {x: 0.28010207, y: -0.3571278, z: 0.11317802, w: 0.88385284}
     speed: 2
-    m_Value: {x: 0.24826422, y: 0.62623394, z: -0.22039373, w: 0.70542514}
+    m_Value: {x: 0.2802712, y: -0.3558012, z: 0.11275761, w: 0.8843865}
   m_Size:
     m_Target: 27.666994
     speed: 2
