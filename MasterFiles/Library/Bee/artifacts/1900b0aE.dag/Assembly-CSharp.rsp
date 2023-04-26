@@ -117,7 +117,9 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
+-define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"Assets/Candice AI for Games/Scripts/Libs/Candice Save System/Plugins/Mono.Data.Sqlite.dll"
@@ -523,7 +525,16 @@
 "Assets/Candice AI for Games/Scripts/Player/FollowPlayer.cs"
 "Assets/Candice AI for Games/Scripts/TimedDestroy.cs"
 "Assets/Candice AI for Games/Scripts/TriggerNextScene.cs"
+"Assets/DoorScript.cs"
+"Assets/EnemyKill.cs"
+"Assets/FurnishedCabin/Scripts/MoveableObject.cs"
+"Assets/FurnishedCabin/Scripts/MoveObjectController.cs"
+"Assets/FurnishedCabin/Scripts/Player/PlayerLook.cs"
+"Assets/FurnishedCabin/Scripts/Player/PlayerMove.cs"
+"Assets/LowPolyLight/Effect/Bloom.cs"
 "Assets/MovementController.cs"
+"Assets/OpenDoor.cs"
+"Assets/Score.cs"
 -langversion:9.0
 
 /deterministic
