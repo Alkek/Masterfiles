@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CandiceVSFX
+  - CandiceEnvironment
+  - Enemy
+  - Projectile
+  - Candice Agent
+  - Waypoint
+  - PlayerHealthBar
+  - WALL
+  - Floor
   layers:
   - Default
   - TransparentFX
@@ -11,7 +20,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - NavMesh
   - 
   - Platforms
   - PostProcessing
